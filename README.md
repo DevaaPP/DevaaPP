@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Devaa Protim Pathak 👋</h1>
 
 <p align="center">
-  Full-Stack Developer • Building scalable web applications with modern technologies
+  Full-Stack | Cyber Security • Building and Securing scalable applications with modern technologies
 </p>
 
 <p align="center">

@@ -107,8 +107,8 @@ Platform connecting blood donors and recipients with secure authentication and s
 ## 📫 Contact
 
 - Email: **devaappathak@gmail.com**
-- LinkedIn: **YOUR_LINKEDIN**
-- GitHub: **YOUR_GITHUB_USERNAME**
+- LinkedIn: **DEVAA-PROTIM-PATHAK**
+- GitHub: **DevaaPP**
 
 ---
 

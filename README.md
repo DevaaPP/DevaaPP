@@ -53,40 +53,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🚘 RideNow — Smart Vehicle Booking Platform
-Full-stack booking platform with authentication, payments, OTP verification, and media handling.
-
-#### Highlights
-- Next.js App Router + TypeScript architecture
-- JWT authentication with NextAuth
-- Google OAuth integration
-- MongoDB + Mongoose backend
-- Razorpay payment integration
-- Cloudinary media storage
-- Email OTP system using Resend
-
-**Tech:**  
-`Next.js` `React` `TypeScript` `MongoDB` `NextAuth` `JWT` `Razorpay`
-
----
-
-### 🩸 Hemolife — Blood Donation Platform
-Platform connecting blood donors and recipients with secure authentication and scalable backend APIs.
-
-#### Highlights
-- Responsive React frontend
-- RESTful backend with Express
-- PostgreSQL database integration
-- JWT authentication system
-- Deployment workflow using GitHub + Vercel
-
-**Tech:**  
-`React` `Node.js` `Express` `PostgreSQL` `TailwindCSS`
-
----
-
 ## 📈 What I Focus On
 
 - Full-stack web development

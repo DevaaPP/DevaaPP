@@ -82,7 +82,7 @@
 ## 📫 Contact
 
 - Email: **devaappathak@gmail.com**
-- LinkedIn: **DEVAA-PROTIM-PATHAK**
+- LinkedIn: **[DEVAA-PROTIM-PATHAK](https://www.linkedin.com/in/devaa-p-pathak/)**
 - GitHub: **DevaaPP**
 
 ---
